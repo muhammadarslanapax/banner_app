@@ -3,9 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/M.arslan/Downloads/Political_binner/app/src/main/res/drawable/ic_more.xml" value="0.176" />
+        <entry key="..\:/Users/M.arslan/Downloads/Political_binner/app/src/main/res/drawable/ic_privacy.xml" value="0.176" />
+        <entry key="..\:/Users/M.arslan/Downloads/Political_binner/app/src/main/res/drawable/ic_rate.xml" value="0.176" />
+        <entry key="..\:/Users/M.arslan/Downloads/Political_binner/app/src/main/res/drawable/ic_save.xml" value="0.176" />
+        <entry key="..\:/Users/M.arslan/Downloads/Political_binner/app/src/main/res/drawable/ic_share.xml" value="0.176" />
         <entry key="..\:/Users/M.arslan/Downloads/Political_binner/app/src/main/res/drawable/img_bg.xml" value="0.176" />
+        <entry key="..\:/Users/M.arslan/Downloads/Political_binner/app/src/main/res/drawable/transparent_bg.xml" value="0.176" />
         <entry key="..\:/Users/M.arslan/Downloads/Political_binner/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
         <entry key="..\:/Users/M.arslan/Downloads/Political_binner/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/M.arslan/Downloads/Political_binner/app/src/main/res/layout/header_nav.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/M.arslan/Downloads/Political_binner/app/src/main/res/layout/nav_header.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/M.arslan/Downloads/Political_binner/app/src/main/res/menu/menu.xml" value="0.203125" />
       </map>
     </option>
   </component>
